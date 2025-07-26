@@ -1,16 +1,25 @@
-# shop_app_flutter
+# 🛒 Shop App (Flutter)
 
-A new Flutter project.
+A simple and responsive shopping application built using **Flutter**. This app displays a list of products and allows users to browse product details in a clean and modern UI.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🧾 Product list with image, name & price
+- 🛍️ Tap to view detailed product information
+- 📱 Fully responsive design for mobile screens
+- 💙 Built with Flutter for cross-platform support
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/9ff412e2-3798-4e38-b93f-1828a68c9f6f" />
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/b5f38ac1-bb50-429e-99f7-36aa34a27723" />
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/f7fbb7e3-c266-4572-8541-df90a5bde6ff" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- Custom UI with `Container`, `Card`, `ListView`, and other Flutter widgets
+
+## 📂 Project Structure
+
